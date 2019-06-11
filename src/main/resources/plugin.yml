@@ -1,0 +1,10 @@
+name: SuperFreedomSurviveReload
+version: ${project.version}
+main: SuperFreedomSurviveReload.Index
+api-version: 1.13
+authors: [XUAN_Cat]
+commands:
+  update:
+    description: 重載
+    usage: /<command>
+    default: op
